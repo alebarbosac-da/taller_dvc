@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://abarbosa-dvcstore
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
